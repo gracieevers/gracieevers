@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gracieevers
 - 👀 I’m interested in ... building my own websites that help my local community.
-- 🌱 I’m currently learning ... Java and React.
+- 🌱 I’m currently learning ... Java, React, and MySQL.
 - 💞️ I’m looking to collaborate on ... anything and everything.
 - 📫 How to reach me ... my email address- evers.gracie@gmail.com
 
